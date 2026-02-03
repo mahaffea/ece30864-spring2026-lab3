@@ -4,3 +4,13 @@ Cons: Can lead to development on features that may be out of scope of the curren
 (b)
 Scrum Master: Manages JIRA and team meetings
 Product Owner: Manages stakeholders and manages direction of team
+(c)
+Sprint Planning:
+What will be completed in next sprint
+Assign roles for sprint
+Daily SCRUM:
+Discuss completed work
+Discuss blockers
+Sprint Retrospective:
+Determine what work is completed
+Determine what uncompleted work must be moved to the backlog
