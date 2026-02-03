@@ -14,3 +14,12 @@ Discuss blockers
 Sprint Retrospective:
 Determine what work is completed
 Determine what uncompleted work must be moved to the backlog
+(d)
+Epic:
+Large, overarching feature. Consists of many issues.
+Story:
+A few sentences describing the requirements of a software system.
+Bug:
+The smallest unit of work to be considered an issue.
+Task:
+Standalone work item. Used to describe technical steps to finish bugs and epics.
