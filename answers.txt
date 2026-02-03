@@ -1,0 +1,3 @@
+(a)
+Pros: Agile development is highly flexible. It is also focused around iterative development, allowing features to be continuously improved.
+Cons: Can lead to development on features that may be out of scope of the current project. Requires very strong coordination to ensure that people don’t accidentally iterate on the same type of feature and duplicate work.
